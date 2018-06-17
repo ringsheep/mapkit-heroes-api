@@ -1,0 +1,1427 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.3 9da5e7ae",
+  "osm3s": {
+    "timestamp_osm_base": "2018-06-16T19:57:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+    {
+      "type": "node",
+      "id": 3682082320,
+      "lat": 55.7919727,
+      "lon": 37.4558389,
+      "tags": {
+        "amenity": "theatre",
+        "name": "Лица",
+        "website": "http://club-fenix.ru/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1704222117,
+      "lat": 55.7973657,
+      "lon": 37.4581847,
+      "tags": {
+        "amenity": "police",
+        "name": "УПП №48 по району Щукино"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1298380264,
+      "lat": 55.7952358,
+      "lon": 37.4664316,
+      "tags": {
+        "amenity": "car_wash"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4907813075,
+      "lat": 55.7986231,
+      "lon": 37.4634582,
+      "tags": {
+        "amenity": "post_box",
+        "ref": "4030"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5162932891,
+      "lat": 55.7978262,
+      "lon": 37.4637410,
+      "tags": {
+        "amenity": "recycling",
+        "opening_hours": "24/7",
+        "operator": "ООО «Спецтранс»",
+        "recycling:cardboard": "yes",
+        "recycling:glass": "yes",
+        "recycling:paper": "yes",
+        "recycling:plastic": "yes",
+        "recycling:scrap_metal": "yes",
+        "recycling_type": "container",
+        "website": "http://www.spt.moscow/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 685814493,
+      "lat": 55.7979475,
+      "lon": 37.4675600,
+      "tags": {
+        "amenity": "atm",
+        "operator": "Альфа-Банк",
+        "website": "http://alfabank.ru/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1766038668,
+      "lat": 55.8003377,
+      "lon": 37.4688876,
+      "tags": {
+        "amenity": "waste_disposal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4969275930,
+      "lat": 55.7979189,
+      "lon": 37.4675122,
+      "tags": {
+        "amenity": "atm",
+        "brand": "РосЕвроБанк",
+        "currency:RUB": "yes",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "operator": "АКБ «РосЕвроБанк» (АО)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1288895160,
+      "lat": 55.7936250,
+      "lon": 37.4819291,
+      "tags": {
+        "amenity": "kindergarten",
+        "entrance": "yes",
+        "name": "Детский сад №3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4554007789,
+      "lat": 55.7915304,
+      "lon": 37.4833148,
+      "tags": {
+        "amenity": "pharmacy",
+        "brand": "Ригла",
+        "brand:wikidata": "Q4394431",
+        "brand:wikipedia": "ru:Ригла",
+        "contact:email": "msk@rigla.ru",
+        "contact:facebook": "https://www.facebook.com/rigla.ru",
+        "contact:instagram": "https://www.instagram.com/rigla.ru",
+        "contact:ok": "https://ok.ru/rigla.ru",
+        "contact:vk": "https://vk.com/rigla_ru",
+        "contact:website": "http://www.rigla.ru",
+        "healthcare": "pharmacy",
+        "name": "Ригла",
+        "name:ru": "Ригла",
+        "opening_hours": "Mo-Su 09:00-21:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5162932890,
+      "lat": 55.7917384,
+      "lon": 37.4834029,
+      "tags": {
+        "amenity": "recycling",
+        "opening_hours": "24/7",
+        "operator": "ООО «Спецтранс»",
+        "recycling:cardboard": "yes",
+        "recycling:glass": "yes",
+        "recycling:paper": "yes",
+        "recycling:plastic": "yes",
+        "recycling:scrap_metal": "yes",
+        "recycling_type": "container",
+        "website": "http://www.spt.moscow/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5285955383,
+      "lat": 55.7914549,
+      "lon": 37.4831307,
+      "tags": {
+        "amenity": "dentist",
+        "contact:phone": "+7 499 1927636",
+        "contact:website": "http://rmstom.ru/",
+        "health_facility:type": "clinic",
+        "health_specialty:dentistry": "yes",
+        "healthcare": "dentist",
+        "medical_system:western": "yes",
+        "name": "Р-мед"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5653260170,
+      "lat": 55.7917288,
+      "lon": 37.4833899,
+      "tags": {
+        "amenity": "waste_disposal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 305370892,
+      "lat": 55.7997200,
+      "lon": 37.4841296,
+      "tags": {
+        "amenity": "parking",
+        "parking": "underground"
+      }
+    },
+    {
+      "type": "node",
+      "id": 527962776,
+      "lat": 55.7981136,
+      "lon": 37.4836318,
+      "tags": {
+        "amenity": "fountain"
+      }
+    },
+    {
+      "type": "node",
+      "id": 677515451,
+      "lat": 55.8001300,
+      "lon": 37.4829086,
+      "tags": {
+        "addr:housenumber": "32",
+        "addr:street": "улица Маршала Бирюзова",
+        "amenity": "cinema",
+        "name": "Синема Парк на Октябрьском Поле",
+        "website": "http://www.cinemapark.ru/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 699012865,
+      "lat": 55.7993026,
+      "lon": 37.4831997,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Колбасофф"
+      }
+    },
+    {
+      "type": "node",
+      "id": 699012867,
+      "lat": 55.7998081,
+      "lon": 37.4822726,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "El Inka"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1100031539,
+      "lat": 55.7976221,
+      "lon": 37.4843282,
+      "tags": {
+        "amenity": "clinic",
+        "health_facility:type": "clinic",
+        "healthcare": "clinic",
+        "medical_system:western": "yes",
+        "name": "Центральная поликлиника №5 Министерства обороны РФ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1101780403,
+      "lat": 55.7968995,
+      "lon": 37.4864329,
+      "tags": {
+        "addr:postcode": "123060",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "СМП Банк",
+        "name:en": "SMP Bank",
+        "name:ru": "СМП Банк",
+        "opening_hours": "Mo-Fr 10:00-17:00",
+        "operator": "СМП Банк",
+        "website": "http://www.smpbank.ru"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1253879631,
+      "lat": 55.7994002,
+      "lon": 37.4827207,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "Старбакс",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "ru:Starbucks",
+        "contact:email": "starbucksinfo@starbuckscoffee.ru",
+        "contact:facebook": "https://www.facebook.com/StarbucksRussia",
+        "contact:phone": "+7 495 6277296",
+        "contact:website": "http://starbuckscoffee.ru",
+        "cuisine": "coffee_shop",
+        "diet:vegetarian": "no",
+        "entrance": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Старбакс",
+        "name:en": "Starbucks",
+        "name:ru": "Старбакс",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "smoking": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1262113794,
+      "lat": 55.7997124,
+      "lon": 37.4835851,
+      "tags": {
+        "amenity": "food_court",
+        "internet_access": "no",
+        "internet_access:fee": "no",
+        "smoking": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1296170520,
+      "lat": 55.7968433,
+      "lon": 37.4837168,
+      "tags": {
+        "amenity": "kindergarten",
+        "entrance": "yes",
+        "name": "Детский сад №2176"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1418100665,
+      "lat": 55.7964653,
+      "lon": 37.4836447,
+      "tags": {
+        "addr:postcode": "123060",
+        "amenity": "veterinary",
+        "entrance": "yes",
+        "name": "Орикс",
+        "name:en": "Oryx Pet Clinique",
+        "website": "http://www.oryxvet.ru"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1809735661,
+      "lat": 55.7954346,
+      "lon": 37.4843583,
+      "tags": {
+        "amenity": "library",
+        "description": "СЗАО",
+        "name": "Библиотека №50",
+        "ref": "50"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2303737204,
+      "lat": 55.7966443,
+      "lon": 37.4854325,
+      "tags": {
+        "amenity": "waste_basket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4518019491,
+      "lat": 55.7996592,
+      "lon": 37.4837160,
+      "tags": {
+        "addr:postcode": "123060",
+        "amenity": "fast_food",
+        "brand": "Бургер Кинг",
+        "brand:wikidata": "Q177054",
+        "brand:wikipedia": "ru:Burger King",
+        "contact:email": "bk-17@burgerking.ru",
+        "contact:facebook": "https://www.facebook.com/BurgerKingRussia",
+        "contact:instagram": "https://instagram.com/burgerking_russia",
+        "contact:phone": "+7 964 7863838",
+        "contact:vk": "https://vk.com/burgerking",
+        "contact:website": "https://burgerking.ru",
+        "cuisine": "burger",
+        "diet:vegetarian": "no",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Бургер Кинг",
+        "name:en": "Burger King",
+        "name:ru": "Бургер Кинг",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "ref": "17",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4529829239,
+      "lat": 55.7998051,
+      "lon": 37.4833717,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "ru:KFC",
+        "contact:email": "yum-press@spncomms.com",
+        "contact:facebook": "https://www.facebook.com/kfcrussia",
+        "contact:instagram": "https://instagram.com/kfcrussia",
+        "contact:ok": "https://ok.ru/kfcrussia",
+        "contact:tumblr": "https://www.tumblr.com/blog/kfcrussia",
+        "contact:twitter": "https://twitter.com/#!/kfcrussia",
+        "contact:vk": "https://vk.com/kfcrussia",
+        "contact:website": "https://www.kfc.ru",
+        "contact:youtube": "https://www.youtube.com/KFCRussia",
+        "cuisine": "chicken",
+        "diet:vegetarian": "no",
+        "name": "KFC",
+        "name:en": "KFC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4628283879,
+      "lat": 55.8002396,
+      "lon": 37.4831116,
+      "tags": {
+        "amenity": "parking",
+        "parking": "underground"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4680948493,
+      "lat": 55.7993299,
+      "lon": 37.4835233,
+      "tags": {
+        "amenity": "atm",
+        "operator": "Raiffaisenbank"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4932605505,
+      "lat": 55.7998350,
+      "lon": 37.4830017,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Макдоналдс",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "ru:McDonald’s",
+        "contact:email": "info@ru.mcd.com",
+        "contact:facebook": "https://www.facebook.com/mcdonaldsrussia",
+        "contact:instagram": "https://www.instagram.com/mcdonalds_rus/",
+        "contact:vk": "https://vk.com/mcdonaldsrussia",
+        "contact:website": "https://mcdonalds.ru",
+        "contact:youtube": "https://www.youtube.com/user/McDonaldsRussia",
+        "cuisine": "burger",
+        "diet:vegetarian": "no",
+        "name": "Макдоналдс",
+        "name:en": "McDonald's",
+        "name:ru": "Макдоналдс"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5162932889,
+      "lat": 55.7961074,
+      "lon": 37.4849452,
+      "tags": {
+        "amenity": "recycling",
+        "opening_hours": "24/7",
+        "operator": "ООО «Спецтранс»",
+        "recycling:cardboard": "yes",
+        "recycling:glass": "yes",
+        "recycling:paper": "yes",
+        "recycling:plastic": "yes",
+        "recycling:scrap_metal": "yes",
+        "recycling_type": "container",
+        "website": "http://www.spt.moscow/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5176435724,
+      "lat": 55.7974478,
+      "lon": 37.4865433,
+      "tags": {
+        "amenity": "pharmacy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5176435725,
+      "lat": 55.7976058,
+      "lon": 37.4862687,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Суши стор"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5176435729,
+      "lat": 55.7992769,
+      "lon": 37.4832820,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Андерсон"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5176435730,
+      "lat": 55.7995295,
+      "lon": 37.4823053,
+      "tags": {
+        "amenity": "bench"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5176451230,
+      "lat": 55.7985886,
+      "lon": 37.4835444,
+      "tags": {
+        "amenity": "bench"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5302586302,
+      "lat": 55.7984300,
+      "lon": 37.4857780,
+      "tags": {
+        "amenity": "clinic",
+        "health_facility:type": "clinic",
+        "healthcare": "clinic",
+        "name": "Поликлиника №173 СЗАО"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1095382764,
+      "lat": 55.7940742,
+      "lon": 37.4930421,
+      "tags": {
+        "amenity": "atm",
+        "operator": "Альфа-Банк",
+        "website": "http://alfabank.ru/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1097247405,
+      "lat": 55.7937283,
+      "lon": 37.4925195,
+      "tags": {
+        "addr:postcode": "123060",
+        "amenity": "pharmacy",
+        "brand": "Горздрав",
+        "contact:email": "info@gor-zdrav.ru",
+        "contact:facebook": "https://www.facebook.com/AptekaGorzdrav",
+        "contact:instagram": "https://www.instagram.com/gorzdrav",
+        "contact:ok": "https://ok.ru/group/57486617870381",
+        "contact:phone": "+7 499 6536277",
+        "contact:vk": "https://vk.com/gorzdrav",
+        "contact:website": "http://www.gorzdrav.org",
+        "dispensing": "no",
+        "name": "Горздрав",
+        "name:ru": "Горздрав",
+        "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1106490259,
+      "lat": 55.7937117,
+      "lon": 37.4925567,
+      "tags": {
+        "amenity": "bureau_de_change"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1251156935,
+      "lat": 55.7938566,
+      "lon": 37.4923304,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "russian;cake",
+        "name": "Штолле"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1254053970,
+      "lat": 55.7928250,
+      "lon": 37.4901018,
+      "tags": {
+        "amenity": "waste_disposal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4554282045,
+      "lat": 55.7925571,
+      "lon": 37.4911704,
+      "tags": {
+        "amenity": "pharmacy",
+        "brand": "Горздрав",
+        "contact:email": "info@gor-zdrav.ru",
+        "contact:facebook": "https://www.facebook.com/AptekaGorzdrav",
+        "contact:instagram": "https://www.instagram.com/gorzdrav",
+        "contact:ok": "https://ok.ru/group/57486617870381",
+        "contact:phone": "+7 499 6536277",
+        "contact:vk": "https://vk.com/gorzdrav",
+        "contact:website": "http://www.gorzdrav.org",
+        "name": "Горздрав",
+        "name:ru": "Горздрав"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4577381386,
+      "lat": 55.7938976,
+      "lon": 37.4922542,
+      "tags": {
+        "amenity": "bank",
+        "name": "ЮниКредитБанк"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4577387889,
+      "lat": 55.7939549,
+      "lon": 37.4920061,
+      "tags": {
+        "amenity": "bureau_de_change"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4577387904,
+      "lat": 55.7936730,
+      "lon": 37.4903807,
+      "tags": {
+        "amenity": "language_school",
+        "contact:website": "http://www.big-ben.ru",
+        "education": "courses",
+        "education_form:parttime": "yes",
+        "education_profile:languages": "yes",
+        "education_programme:DE": "yes",
+        "education_programme:EN": "yes",
+        "education_programme:ES": "yes",
+        "education_programme:FR": "yes",
+        "education_programme:IT": "yes",
+        "education_programme:ZH": "yes",
+        "name": "Биг Бэн"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4577387906,
+      "lat": 55.7928904,
+      "lon": 37.4884120,
+      "tags": {
+        "amenity": "restaurant",
+        "contact:phone": "+7 495 7257525",
+        "contact:website": "http://www.cafedearts.ru",
+        "name": "Cafe de Arts"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4749629521,
+      "lat": 55.7925395,
+      "lon": 37.4930285,
+      "tags": {
+        "addr:housenumber": "8",
+        "addr:street": "улица Маршала Малиновского",
+        "amenity": "bank",
+        "name": "Ренессанс Кредит",
+        "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-17:00",
+        "website": "http://www.rencredit.ru"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5418273594,
+      "lat": 55.7932975,
+      "lon": 37.4923897,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Бургер Кинг",
+        "brand:wikidata": "Q177054",
+        "brand:wikipedia": "ru:Burger King",
+        "contact:facebook": "https://www.facebook.com/BurgerKingRussia",
+        "contact:instagram": "https://www.instagram.com/burgerking_russia",
+        "contact:phone": "+7 800 5504545",
+        "contact:vk": "https://vk.com/burgerking",
+        "contact:website": "https://burgerking.ru",
+        "cuisine": "burger",
+        "diet:vegetarian": "no",
+        "name": "Бургер Кинг",
+        "name:en": "Burger King",
+        "name:ru": "Бургер Кинг",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5607654624,
+      "lat": 55.7937489,
+      "lon": 37.4924889,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Здорр",
+        "name:ru": "Здоров.ру",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "website": "http://www.zdorov.ru"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1095171437,
+      "lat": 55.7929039,
+      "lon": 37.4940355,
+      "tags": {
+        "addr:country": "RU",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "ru:KFC",
+        "contact:email": "yum-press@spncomms.com",
+        "contact:facebook": "https://www.facebook.com/kfcrussia",
+        "contact:instagram": "https://instagram.com/kfcrussia",
+        "contact:ok": "https://ok.ru/kfcrussia",
+        "contact:tumblr": "https://www.tumblr.com/blog/kfcrussia",
+        "contact:twitter": "https://twitter.com/#!/kfcrussia",
+        "contact:vk": "https://vk.com/kfcrussia",
+        "contact:website": "https://www.kfc.ru",
+        "contact:youtube": "https://www.youtube.com/KFCRussia",
+        "cuisine": "chicken",
+        "diet:vegetarian": "no",
+        "int_name": "KFC",
+        "internet_access": "wlan",
+        "name": "KFC",
+        "name:de": "KFC",
+        "name:en": "KFC",
+        "old_name": "Ростик’с-KFC / Ростикс",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1095172953,
+      "lat": 55.7929962,
+      "lon": 37.4935306,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "Планета Суши",
+        "name:en": "Planet of sushi",
+        "operator": "Росинтер",
+        "website": "http://planet-sushi.rosinter.ru/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1100031588,
+      "lat": 55.7933737,
+      "lon": 37.4957448,
+      "tags": {
+        "amenity": "fountain"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1101780354,
+      "lat": 55.7936880,
+      "lon": 37.4944537,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "yes",
+        "layer": "-1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1101780371,
+      "lat": 55.7923627,
+      "lon": 37.4952532,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Неофарм",
+        "name:en": "Neopharm",
+        "opening_hours": "24/7",
+        "website": "http://neopharm.ru/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1101780373,
+      "lat": 55.7922694,
+      "lon": 37.4951829,
+      "tags": {
+        "amenity": "dentist",
+        "name": "Жемчуг"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1298330794,
+      "lat": 55.7939111,
+      "lon": 37.4948841,
+      "tags": {
+        "amenity": "pub",
+        "layer": "-1",
+        "name": "Интерпаб",
+        "opening_hours": "Mo-We 12:00-24:00; Fr-Sa 12:00-24:05; Su 12:00-24:00",
+        "smoking": "separated",
+        "website": "http://www.interpab.ru"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2669978767,
+      "lat": 55.7922890,
+      "lon": 37.4964808,
+      "tags": {
+        "addr:city": "Москва",
+        "addr:housenumber": "8",
+        "addr:postcode": "123298",
+        "addr:street": "улица Маршала Бирюзова",
+        "amenity": "bank",
+        "bic": "VTBRRUMM",
+        "brand": "ВТБ",
+        "contact:email": "info@vtb.ru",
+        "contact:facebook": "https://www.facebook.com/vtbgroup",
+        "contact:phone": "+7 800 2007799",
+        "contact:twitter": "https://twitter.com/vtb",
+        "contact:vk": "https://vk.com/vtb24",
+        "contact:website": "https://www.vtb.ru",
+        "contact:youtube": "https://www.youtube.com/user/vtbgroup",
+        "name": "ВТБ",
+        "name:en": "VTB",
+        "name:ru": "ВТБ",
+        "opening_hours": "Mo-Fr 09:00-20:00; Sa 10:00-17:00",
+        "operator": "Банк ВТБ (публичное акционерное общество)",
+        "operator:wikidata": "Q1549389",
+        "operator:wikipedia": "ru:Банк ВТБ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2669978768,
+      "lat": 55.7939269,
+      "lon": 37.4932145,
+      "tags": {
+        "addr:city": "Москва",
+        "addr:housenumber": "14",
+        "addr:postcode": "123060",
+        "addr:street": "улица Маршала Бирюзова",
+        "amenity": "bank",
+        "atm": "yes",
+        "bic": "VTBRRUMM",
+        "brand": "ВТБ Банк Москвы",
+        "brand:wikidata": "Q767946",
+        "brand:wikipedia": "ru:Банк Москвы",
+        "contact:facebook": "https://www.facebook.com/VTB.BankofMoscow",
+        "contact:instagram": "https://www.instagram.com/bankvtb",
+        "contact:ok": "https://ok.ru/vtb",
+        "contact:phone": "+7 800 2002326",
+        "contact:twitter": "https://twitter.com/VTB_BM",
+        "contact:vk": "https://vk.com/vtb_bm",
+        "contact:website": "https://www.bm.ru",
+        "contact:youtube": "https://www.youtube.com/vtbgroup",
+        "name": "ВТБ Банк Москвы",
+        "name:en": "VTB Bank of Moscow",
+        "name:ru": "ВТБ Банк Москвы"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4166775647,
+      "lat": 55.7929331,
+      "lon": 37.4951982,
+      "tags": {
+        "addr:city": "Москва",
+        "addr:housenumber": "10",
+        "addr:street": "улица Маршала Бирюзова",
+        "amenity": "pharmacy",
+        "brand": "Горздрав",
+        "contact:email": "info@gor-zdrav.ru",
+        "contact:facebook": "https://www.facebook.com/AptekaGorzdrav",
+        "contact:instagram": "https://www.instagram.com/gorzdrav",
+        "contact:ok": "https://ok.ru/group/57486617870381",
+        "contact:phone": "+7 499 6536277",
+        "contact:vk": "https://vk.com/gorzdrav",
+        "contact:website": "http://www.gorzdrav.org",
+        "name": "Горздрав",
+        "name:ru": "Горздрав"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4203756489,
+      "lat": 55.7924742,
+      "lon": 37.4961992,
+      "tags": {
+        "addr:city": "Москва",
+        "addr:housenumber": "8",
+        "addr:postcode": "123298",
+        "addr:street": "улица Маршала Бирюзова",
+        "amenity": "bank",
+        "contact:email": "info@raiffeisen.ru",
+        "contact:facebook": "https://www.facebook.com/raiffeisenbankrus",
+        "contact:instagram": "https://instagram.com/raiffeisenbank_rus",
+        "contact:phone": "+7 495 7219900",
+        "contact:telegram": "https://telegram.me/RaiffeisenbankBot",
+        "contact:twitter": "https://twitter.com/Raiffeisen_Ru",
+        "contact:vk": "https://vk.com/raiffeisenbankrus",
+        "contact:website": "https://www.raiffeisen.ru",
+        "name": "Райффайзен",
+        "name:en": "Raiffeisen",
+        "name:ru": "Райффайзен",
+        "opening_hours": "10:00-20:00",
+        "operator:wikidata": "Q4389244",
+        "operator:wikipedia": "ru:Райффайзенбанк"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4313363089,
+      "lat": 55.7928702,
+      "lon": 37.4953603,
+      "tags": {
+        "amenity": "hookah_lounge",
+        "name": "Hookah",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4344571600,
+      "lat": 55.7926575,
+      "lon": 37.4943023,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "cake;coffee_shop",
+        "name": "Французская пекарня",
+        "name:en": "Delice patisserie",
+        "name:fr": "Delice patisserie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4498256392,
+      "lat": 55.7939920,
+      "lon": 37.4950107,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "pizza;sushi",
+        "name": "Ньокки",
+        "name:en": "Niokki",
+        "website": "http://www.niokki.ru"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4689516700,
+      "lat": 55.7930954,
+      "lon": 37.4949069,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Чебуреки",
+        "name:en": "Чебуреки",
+        "name:ru": "Чебуреки",
+        "opening_hours": "Mo-Fr 12:00-22:00",
+        "phone": "(499)198-23-51"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4691344592,
+      "lat": 55.7918816,
+      "lon": 37.4969387,
+      "tags": {
+        "amenity": "vending_machine",
+        "contact:phone": "+7 495 539-54-54",
+        "contact:website": "http://parking.mos.ru/",
+        "opening_hours": "24/7",
+        "operator": "ГКУ «Администратор Московского парковочного пространства»",
+        "payment:cash": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "ref": "2175",
+        "ref:mos_parking": "1774521",
+        "source": "dit.mos.ru",
+        "vending": "parking_tickets",
+        "zone:parking": "4037"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4917704026,
+      "lat": 55.7929278,
+      "lon": 37.4934069,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Pizza Hut",
+        "brand:wikidata": "Q191615",
+        "brand:wikipedia": "ru:Пицца Хат",
+        "contact:email": "info@pizzahut.ru",
+        "contact:facebook": "https://www.facebook.com/PizzaHutRussia",
+        "contact:instagram": "https://www.instagram.com/pizzahutrussia",
+        "contact:phone": "+7 800 1001958",
+        "contact:vk": "https://vk.com/pizzahutrussia",
+        "contact:website": "https://www.pizzahut.ru",
+        "cuisine": "pizza",
+        "delivery": "yes",
+        "diet:vegetarian": "no",
+        "name": "Pizza Hut",
+        "name:en": "Pizza Hut",
+        "opening_hours": "Mo-Su 10:00-23:00",
+        "operator:wikidata": "Q191615",
+        "operator:wikipedia": "ru:Пицца Хат"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5155784280,
+      "lat": 55.7915961,
+      "lon": 37.4967083,
+      "tags": {
+        "amenity": "cafe",
+        "email": "chaikoff.contakt@gmail.com",
+        "name": "Чайникофф",
+        "phone": "+79117626266",
+        "website": "http://chainikoff.ru"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5676417064,
+      "lat": 55.7926577,
+      "lon": 37.4958418,
+      "tags": {
+        "amenity": "pub",
+        "name": "Бузер",
+        "name:en": "Boozer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 534557905,
+      "lat": 55.7946590,
+      "lon": 37.4905515,
+      "tags": {
+        "amenity": "dentist",
+        "entrance": "yes",
+        "name": "АтласДент",
+        "name:en": "AtlasDent",
+        "name:ru": "АтласДент",
+        "opening_hours": "Mo-Su 10:00-21:00",
+        "phone": "+7 (499) 194-21-11",
+        "website": "http://www.atlasdent.ru"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1096934134,
+      "lat": 55.7943658,
+      "lon": 37.4923352,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Почта России",
+        "website": "http://russianpost.ru/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1097247389,
+      "lat": 55.7949502,
+      "lon": 37.4919450,
+      "tags": {
+        "addr:postcode": "123060",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "36,6",
+        "name:en": "Pharmacy 36,6",
+        "name:ru": "A.V.E",
+        "opening_hours": "24/7",
+        "website": "http://www.366.ru"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1099613802,
+      "lat": 55.7963600,
+      "lon": 37.4914108,
+      "tags": {
+        "amenity": "waste_disposal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1099613806,
+      "lat": 55.7975156,
+      "lon": 37.4878397,
+      "tags": {
+        "amenity": "waste_disposal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1099613810,
+      "lat": 55.7952760,
+      "lon": 37.4882843,
+      "tags": {
+        "amenity": "waste_disposal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1099655736,
+      "lat": 55.7959074,
+      "lon": 37.4868267,
+      "tags": {
+        "addr:country": "RU",
+        "addr:postcode": "123060",
+        "amenity": "post_office",
+        "contact:website": "http://www.russianpost.ru",
+        "name": "Отделение связи №123060",
+        "operator": "ФГУП «Почта России»",
+        "operator:wikidata": "Q1502763",
+        "operator:wikipedia": "ru:Почта России",
+        "ref": "123060"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1101780362,
+      "lat": 55.7954276,
+      "lon": 37.4906036,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "entrance": "yes",
+        "name": "МТС Банк",
+        "name:en": "MTS Bank",
+        "name:ru": "МТС Банк",
+        "opening_hours": "Mo-Fr 09:15-20:00",
+        "website": "http://www.mtsbank.ru"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1128261408,
+      "lat": 55.7946598,
+      "lon": 37.4907808,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "entrance": "yes",
+        "name": "Примавера",
+        "opening_hours": "Mo-Fr 12:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1245467881,
+      "lat": 55.7967019,
+      "lon": 37.4868968,
+      "tags": {
+        "amenity": "bank",
+        "entrance": "yes",
+        "name": "Россельхозбанк",
+        "name:ru": "Россельхозбанк"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1257007996,
+      "lat": 55.7951161,
+      "lon": 37.4922139,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Совкомбанк",
+        "name:en": "Sovkombank",
+        "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-17:00",
+        "website": "http://www.sovcombank.ru"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1257008023,
+      "lat": 55.7966181,
+      "lon": 37.4870612,
+      "tags": {
+        "addr:postcode": "123060",
+        "amenity": "pharmacy",
+        "brand": "36,6",
+        "brand:wikidata": "Q226889",
+        "brand:wikipedia": "ru:36,6 (аптечная сеть)",
+        "contact:facebook": "https://www.facebook.com/apteka366",
+        "contact:instagram": "https://www.instagram.com/apteka366",
+        "contact:ok": "https://ok.ru/group/57486618853421",
+        "contact:vk": "https://vk.com/apteka36i6",
+        "contact:website": "http://www.366.ru",
+        "dispensing": "no",
+        "entrance": "yes",
+        "healthcare": "pharmacy",
+        "name": "36,6",
+        "name:ru": "36,6",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1257008141,
+      "lat": 55.7953018,
+      "lon": 37.4926181,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "contact:phone": "+7 495 7974243;+7 495 7974210;+7 495 7974230",
+        "contact:website": "http://mkb.ru",
+        "department": "Октябрьское поле",
+        "name": "МКБ",
+        "opening_hours": "Mo-Th 10:00-17:00; Fr 10:00-16:00; Sa off; Su off",
+        "operator": "ОАО \"Московский кредитный банк\""
+      }
+    },
+    {
+      "type": "node",
+      "id": 1257008189,
+      "lat": 55.7963819,
+      "lon": 37.4875315,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "entrance": "yes",
+        "name": "Металлинвестбанк",
+        "name:en": "Metallinvestbank",
+        "opening_hours": "Mo-Fr 09:00-20:00; Sa-Su 10:00-17:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1286587044,
+      "lat": 55.7942153,
+      "lon": 37.4927796,
+      "tags": {
+        "amenity": "atm",
+        "note": "МИнБ (Универмаг «Мета»)",
+        "operator": "ПАО «МИнБанк»"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1289472197,
+      "lat": 55.7995502,
+      "lon": 37.4908902,
+      "tags": {
+        "amenity": "waste_disposal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1290822352,
+      "lat": 55.7969048,
+      "lon": 37.4920204,
+      "tags": {
+        "addr:housenumber": "7",
+        "addr:street": "улица Маршала Рыбалко",
+        "amenity": "pub",
+        "entrance": "yes",
+        "food": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1654831802,
+      "lat": 55.7947039,
+      "lon": 37.4917007,
+      "tags": {
+        "amenity": "bureau_de_change"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1688676616,
+      "lat": 55.7952045,
+      "lon": 37.4907830,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Русский стандарт"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1688852489,
+      "lat": 55.7959622,
+      "lon": 37.4895777,
+      "tags": {
+        "addr:postcode": "123060",
+        "amenity": "restaurant",
+        "contact:phone": "+7 499 1941275",
+        "contact:website": "http://www.food-italy.ru",
+        "cuisine": "italian",
+        "name": "Il Tortellino",
+        "name:en": "Il Tortellino",
+        "opening_hours": "Mo-Su 11:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1704222119,
+      "lat": 55.7944516,
+      "lon": 37.4875740,
+      "tags": {
+        "amenity": "police",
+        "name": "УПП №50 по району Щукино"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2611760895,
+      "lat": 55.7959174,
+      "lon": 37.4897654,
+      "tags": {
+        "amenity": "atm",
+        "contact:email": "info@transcapital.ru",
+        "contact:fax": "+7 (495) 797-32-01",
+        "contact:phone": "+7 (800) 100-32-00",
+        "contact:website": "http://www.transcapital.ru",
+        "currency:RUB": "yes",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "operator": "Транскапиталбанк",
+        "operator:wikidata": "Q7833819",
+        "operator:wikipedia": "ru:Транскапиталбанк"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2669978769,
+      "lat": 55.7974672,
+      "lon": 37.4900871,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Солнышко",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2669978770,
+      "lat": 55.7974370,
+      "lon": 37.4900361,
+      "tags": {
+        "amenity": "clinic",
+        "health_facility:type": "clinic",
+        "healthcare": "clinic",
+        "medical_system:western": "yes",
+        "name": "Врачебно-физкультурный диспансер №19"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2669978771,
+      "lat": 55.7981411,
+      "lon": 37.4899959,
+      "tags": {
+        "addr:city": "Москва",
+        "addr:housenumber": "10",
+        "addr:street": "улица Маршала Рыбалко",
+        "amenity": "childcare",
+        "name": "Детский клуб Дружба"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4220879089,
+      "lat": 55.7968244,
+      "lon": 37.4876995,
+      "tags": {
+        "addr:postcode": "123060",
+        "amenity": "dentist",
+        "name": "Протектлюкс",
+        "name:en": "Protectlux",
+        "name:ru": "Протектлюкс",
+        "phone": "(499) 194-19-19",
+        "website": "http://www.protectlux.ru"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4577387892,
+      "lat": 55.7943862,
+      "lon": 37.4913208,
+      "tags": {
+        "addr:postcode": "123060",
+        "amenity": "pharmacy",
+        "name": "Аптека от склада",
+        "name:ru": "Аптека от склада",
+        "opening_hours": "Mo-Fr 07:30-23:00; Sa-Su 09:00-22:00",
+        "website": "http://www.apteka-ot-sklada.ru"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4918065468,
+      "lat": 55.7948885,
+      "lon": 37.4930230,
+      "tags": {
+        "amenity": "waste_disposal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5159331515,
+      "lat": 55.7998328,
+      "lon": 37.4872415,
+      "tags": {
+        "amenity": "waste_disposal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5163470678,
+      "lat": 55.7963366,
+      "lon": 37.4914616,
+      "tags": {
+        "amenity": "recycling",
+        "opening_hours": "24/7",
+        "operator": "ООО «Спецтранс»",
+        "recycling:plastic_bottles": "yes",
+        "recycling_type": "container",
+        "website": "http://www.spt.moscow/"
+      }
+    }
+
+  ]
+}
